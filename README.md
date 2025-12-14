@@ -7,12 +7,12 @@ The analysis focuses on identifying socioeconomic patterns associated with highe
 
 ---
 
-## Research Question
+## 🎯 Research Question
 How do income, education, race/ethnicity, and rurality relate to heart disease mortality across Texas counties?
 
 ---
 
-## Data
+## 🗂️ Data
 - **Source:** Publicly available datasets  
 - **Level:** Aggregated county-level data  
 - **Geographic scope:** Texas counties  
@@ -26,7 +26,7 @@ All datasets used in this project are publicly available and suitable for open r
 
 ---
 
-## Methods & Analysis
+## 🔬 Methods & Analysis
 This project follows a standard public health analytics workflow:
 - Data cleaning and preprocessing  
 - Exploratory Data Analysis (EDA)  
@@ -36,7 +36,7 @@ This project follows a standard public health analytics workflow:
 
 ---
 
-## Key Findings
+## 📈 Key Findings
 - **Income:** Higher-income counties show significantly lower heart disease mortality rates.
 - **Education:** Higher educational attainment is associated with improved health outcomes, particularly in urban counties.
 - **Race/Ethnicity:** Hispanic population share is associated with lower mortality; other racial associations are weaker after controlling for socioeconomic factors.
@@ -46,7 +46,7 @@ Overall, **income, education, and rurality** are the strongest predictors of hea
 
 ---
 
-## Tools & Technologies
+## 🛠 Tools & Technologies
 - Python  
 - Pandas  
 - NumPy  
@@ -56,7 +56,7 @@ Overall, **income, education, and rurality** are the strongest predictors of hea
 
 ---
 
-## Project Report
+## 📄 Project Report
 A complete analytical report summarizing the research question, methodology, key findings, and policy implications is included in the repository:
 
 📄 **Heart Disease Mortality & Social Determinants of Health (2022)**
@@ -71,7 +71,7 @@ A complete analytical report summarizing the research question, methodology, key
 
 ---
 
-## Future Work
+## 🚀 Future Work
 - Incorporate multi-year data to analyze trends over time  
 - Add healthcare access and behavioral risk indicators  
 - Extend analysis beyond Texas to additional regions  
