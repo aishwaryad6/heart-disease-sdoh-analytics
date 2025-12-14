@@ -1,6 +1,6 @@
 # 🩺📊 Heart Disease Mortality & Social Determinants of Health
 
-## 📌Project Overview
+## 📌 Project Overview
 This project examines the relationship between **heart disease mortality** and key **social determinants of health (SDOH)**—including income, education, race/ethnicity, and rurality—using **publicly available county-level data from Texas**.
 
 The analysis focuses on identifying socioeconomic patterns associated with higher mortality rates and demonstrating healthcare data analytics and statistical modeling skills relevant to public health and population health research.
@@ -63,7 +63,7 @@ A complete analytical report summarizing the research question, methodology, key
 
 ---
 
-## Limitations
+## 🔍 Limitations
 - Analysis limited to a single year (2022)  
 - No longitudinal trends assessed  
 - Behavioral and clinical risk factors not included  
